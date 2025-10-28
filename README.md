@@ -1,7 +1,14 @@
 # aplikasi_travel
 
 A new Flutter project.
+## Anggota Tim
+| Nama Anggota | NIM |
+| :--- | :--- |
+| Aep Rachmat Widjaya | 232101021 |
+| Veroland Bimo Alrafii | 232101350 |
+| Agum Riyadi | 232101209 |
 
+---
 ## Getting Started
 
 This project is a starting point for a Flutter application.
